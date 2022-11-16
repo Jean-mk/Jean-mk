@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding in general
 - 🌱 I’m currently learning python, Java, etc.
 - 💞️ I’m looking to collaborate on homework projects that will be given to us in the future
-- 📫 How to reach me: contact me via canvas or by email: jeankwete481@gmail.com
+- 📫 How to reach me: contact me via canvas: JeanMbuyi@seattlecolleges.edu or by email: jeankwete481@gmail.com
 - Looking forward to speaking with you :)
 
 <!---
